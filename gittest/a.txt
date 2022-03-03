@@ -1,2 +1,2 @@
-this is first line in a.txt
+githis is first line in a.txt
 this is second line
